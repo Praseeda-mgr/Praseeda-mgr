@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)<h1 align="center">Hi 👋, I'm Prasiddha Pulami Magar</h1>
+Hi 👋, I'm Prasiddha Pulami Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <a href="https://twitter.com/praseeda_magar" target="blank"><img src="https://img.shields.io/twitter/follow/praseeda_magar?logo=twitter&style=for-the-badge" alt="praseeda_magar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

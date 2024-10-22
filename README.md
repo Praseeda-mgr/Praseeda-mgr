@@ -1,5 +1,5 @@
 Hi 👋, I'm Prasiddha Pulami Magar</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate Fullstack developer from Nepal</h3>
 <p align="left"> <a href="https://twitter.com/praseeda_magar" target="blank"><img src="https://img.shields.io/twitter/follow/praseeda_magar?logo=twitter&style=for-the-badge" alt="praseeda_magar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
